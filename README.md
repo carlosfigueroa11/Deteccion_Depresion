@@ -1,2 +1,5 @@
 # Deteccion_Depresion
 Aquí subiré la carpeta de mi proyecto final de Temas de Programación avanzada con todos los archivos creados
+El siguiente proyecto para presentarse aborda un problema algo critico en el ámbito educativo. La detección temprana de posibles signos de depresión en estudiantes universitarios, a partir de factores como el estrés académico y financiero, hábitos de sueño, alimentación, historial familiar de enfermedades mentales y pensamientos suicidas. La salud mental universitaria podría ser un problema para la Universidad de la Sierra, es por eso que, mediante este sistema, se busca brindar una herramienta de apoyo basada en inteligencia artificial que pueda alertar sobre posibles casos de riesgo y algunas recomendaciones o consejos para evitar y tratar con la depresión.
+El sistema predice si un estudiante presenta signos de depresión, utilizando un modelo de machine learning entrenado con datos reales y brinda acompañamiento emocional a través de un chat interactivo basado en GPT, el cual responde con empatía sobre temas relacionados con salud mental y bienestar.
+
